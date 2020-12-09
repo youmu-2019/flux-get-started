@@ -3,7 +3,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: podinfo
-  namespace: demo
+  namespace: demo2
   labels:
     app: podinfo
   annotations:
